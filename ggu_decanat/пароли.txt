@@ -1,0 +1,19 @@
+Заведующий кафедрой: head.dept / 123
+
+Профессор: professor / 123
+
+Доцент: associate.prof / 123
+
+Старший преподаватель: senior.lecturer / 123
+
+Ассистент: assistant / 123
+
+Методист: methodist / 123
+
+Лаборант: laboratory / 123
+
+Старший научный сотрудник: senior.researcher / 123
+
+Деканат (специалист): dean.office / 123
+
+Администратор: admin / admin123
